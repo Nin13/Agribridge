@@ -4,10 +4,3 @@
 
   
 ## <a href = "https://youtu.be/QS29vefe4tE" > Click Here </a> To Watch Demo Video
-
-* HTML
-* CSS
-* JAVASCRIPT
-* PHP
-* BOOTSTRAP
-
