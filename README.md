@@ -1,6 +1,6 @@
-# Agribridge An E-Commerce Website For Fresh Farm Produce Vegetables And Fruits
+Agribridge An E-Commerce Website For Fresh Farm Produce Vegetables And Fruits
 
-#### An E-Commerce Website for farmers to sell their produce at better rates and buyers can purchase those produce via website using categorical and location wise search system. The one of main goal of this project is to eliminate middleman and provide an efficient and robust alternative method to ease the flow of overall market.
+Agribridge is a dynamic and innovative techno-business that specializes in revolutionizing the agricultural industry. Our primary goal is to bridge the gap between farmers and the market, ensuring efficient and sustainable food production and distribution. By leveraging advanced technologies, Agribridge aims to optimize the entire agri-value chain, fostering economic growth, and improving livelihoods.
 
   
-## <a href = "https://youtu.be/QS29vefe4tE" > Click Here </a> To Watch Demo Video
+<a href = "https://youtu.be/QS29vefe4tE" > Click Here </a> To Watch Demo Video
